@@ -26,7 +26,11 @@ I think the artists I listen to the most are:
 3. Frederic Chopin
 4. Anderson .Paak
    
+Being a UCSD student, I have grown to like racoons. Here is a good depiction of a trash panda:
+![](racoon.JPG)
 To see my favorite programming language you can view the [README](README.md)
+
+
 
 ## Conclusion
 I hope to become a software engineer who can proudly say, as video game designer [Todd Howard](https://en.wikipedia.org/wiki/Todd_Howard) once said:
