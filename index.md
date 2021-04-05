@@ -1,6 +1,6 @@
 # Cory Huynh's User Page
 ## Who am I?
-My name is **Cory Huynh** and I am a second year Computer Engineering major at **UCSD**. I am taking this class to learn about the process of Software Engineering and hopefully inspire the journey of becoming one myself. [To my end goal](#my end goal)
+My name is **Cory Huynh** and I am a second year Computer Engineering major at **UCSD**. I am taking this class to learn about the process of Software Engineering and hopefully inspire the journey of becoming one myself. [To my end goal](#my-end-goal)
 ## What is this?
 This is the first Lab assignment of ***CSE 110: Software Engineering***. So far I have completed 2 out of the 3 tasks and am working on the third task:
 - [x] Installing VSCode and extensions
