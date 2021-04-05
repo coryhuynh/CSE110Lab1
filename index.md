@@ -7,12 +7,12 @@ This is the first Lab assignment of CSE 110: Software Engineering. So far I have
 - [x] Refamiliarizing myself with Git
 - [ ] Using Markdown
   
-The review of Git was really useful, I learned how a .gitignore file works and reviewed some basic git commands like:
-'''
+The review of Git was really useful, I learned how a .gitignore file works and reviewed some basic git commands like: 
+```
 git checkout -b "new-branch"
 git add .
 git commit -m "commit message"
-'''
+```
 
 ## What do I like?
 Some of my hobbies include gaming, playing basketball, and listening to music. I am a big Lakers fan and some of my favorite games are: 
