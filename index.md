@@ -6,3 +6,9 @@ Some of my hobbies include gaming, playing basketball, and listening to music. I
 - Skyrim
 - The Mass Effect trilogy
 - Counter-Strike: Global Offensive.
+I think the artists I listen to the most are:
+1. Kanye West
+2. Tyler the Creator
+3. Frederic Chopin
+4. Anderson .Paak
+To see my favorite programming language you can view the [README](README.md)
