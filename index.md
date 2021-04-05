@@ -1,8 +1,8 @@
 # Cory Huynh's User Page
 ## Who am I?
-My name is Cory Huynh and I am a second year Computer Engineering major at **UCSD**. I am taking this class to learn about the process of Software Engineering and hopefully inspire the process of becoming one myself. 
+My name is **Cory Huynh** and I am a second year Computer Engineering major at **UCSD**. I am taking this class to learn about the process of Software Engineering and hopefully inspire the journey of becoming one myself. 
 ## What is this?
-This is the first Lab assignment of CSE 110: Software Engineering. So far I have completed 2 out of the 3 tasks and am working on the third task:
+This is the first Lab assignment of ***CSE 110: Software Engineering***. So far I have completed 2 out of the 3 tasks and am working on the third task:
 - [x] Installing VSCode and extensions
 - [x] Refamiliarizing myself with Git
 - [ ] Using Markdown
@@ -27,3 +27,8 @@ I think the artists I listen to the most are:
 4. Anderson .Paak
    
 To see my favorite programming language you can view the [README](README.md)
+
+## Conclusion
+I hope to become a software engineer who can proudly say, as video game designer [Todd Howard](https://en.wikipedia.org/wiki/Todd_Howard) once said:
+
+> It just works
